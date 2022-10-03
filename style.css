@@ -60,3 +60,15 @@
 .span{
     color: rgb(155, 150, 150);
 }
+.div-2{
+    display: flex;
+    justify-content: space-between;
+    font-size: 28px;
+}
+.span-3{
+    color:rgb(155, 150, 150) ;
+}
+.span-2{
+    font-size:37px ;
+    font-weight: 700;
+}
